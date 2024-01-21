@@ -6,6 +6,8 @@ I made this program while I was learning the ropes of CI4 for the very first tim
 I'd like to keep going until it's at least usable, but since the deadline's coming up pretty soon, this is as far as I can go for now. Keep in mind that it is still far from complete, and still missing several programs necessary (some more forms, table view menu, and the list goes on).
 But regardless whether I'll get the job or not, I think I'm going to finish this eventually. I got so invested with how eye-opening this experience was (how CodeIgniter made project mangament so much tidier, it's advanced commands, the MVC concept, etc.), that I just won't be satisfied until I can make use of this framework properly (or at least actually completing this one out).
 
+By the way if anyone still wants to give this a shot, you can get these files by using the 'Download ZIP' option.
+
 Important Notes Before Using:
 - A CodeIgniter4 AppStarter is necessary to be able to run this program. I recommend reading this tutorial to help you along with that (I also used this one btw) - https://codeigniter.com/user_guide/installation/installing_composer.html
 - Whilst there are several folders included in the package, the are only a handful of folders and files that needed to be copied over. They are as follows
@@ -18,3 +20,6 @@ Or if you just wanna get to the point, this might help (I think....) - https://c
 
 
 Thanks for checking by. And if you have any suggestions on how I can familiarize myself with CI please let me know, that'll will be much appreciated!
+
+
+(this is also my first time uploading a repo to github, and I deeply apologize for this exquisitely sloppy execution ^-^;)
