@@ -1,0 +1,1 @@
+<p>Tenant has been successfully added</p>

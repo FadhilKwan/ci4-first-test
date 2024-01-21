@@ -1,0 +1,1 @@
+<p>Customer has been successfully added</p>
